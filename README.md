@@ -7,7 +7,7 @@ This event was designed to help students and professionals build their **persona
 📍 Location: Universidad de la Costa  
 🎓 Organized by: IEEE Computer Society CUC
 
-## 00-README.md
+## 00-README.md 📄
 
 > This Markdown script shows the **first version** of a professional profile README.  
 > It included my **banner** with social media username, three descriptive paragraphs in English about my **profession**, **technologies**, and **objectives**, plus a professional **signature** of my personal brand.
@@ -26,20 +26,20 @@ This event was designed to help students and professionals build their **persona
 
 <img alt="01-readme-screenshot" src="./screenshots/01-readme-screenshot.png" />
 
-## 02-README.md ✨
+## 02-README.md 🛠️
 
 > En este tercer ejemplo de Markdown aprendimos a usar generadores de profile README de otros usuarios, y el uso de prompts estratégicos para crear una descripción profesional corta para hojas de vidas y filtros ATS. Aprendimos sobre el uso de badges con los markdown, y la posibilidad de mostrar tus logros de GitHub.
 
 <img alt="02-readme-screenshot" src="./screenshots/02-readme-screenshot.png" />
 
-## 03-README.md 🛠️
+## 03-README.md 🔍
 
 > This final example is a **combination** of the previous Markdown files.  
 > It serves as a **personal reference** to gain a broad vision of the profile and gather ideas on how to improve communication of **skills**, **achievements**, and **projects**.
 
 <img alt="03-readme-screenshot" src="./screenshots/03-readme-screenshot.png" />
 
-## Shared resources 📚
+## Shared resources 🔗
 
 > Here are some useful resources to continue building your GitHub profile:
 
