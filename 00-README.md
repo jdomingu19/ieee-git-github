@@ -1,6 +1,6 @@
 # Hello, there! 👋🏻
 
-![header_jdomingu19](https://github.com/user-attachments/assets/6296f469-95fc-429f-9c89-462c62b3e079)
+ <img width="1280" height="400" alt="header_jdomingu19" src="https://github.com/user-attachments/assets/9d791281-1625-48c4-bc46-5ec5df82f94b" />
 
 <div align="top">
   <img align="left" alt="GitHub Copilot" width="120" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHZtdGVncHF0czI0N2tsa293bjJ6OWdmNXBuNTF3d3B2eWNsdGhsMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Sh1iCtJZEdx4PFYy4q/giphy.gif" />
