@@ -1,5 +1,7 @@
 # IEEE Git & GitHub 💻⚡
 
+<img width="100%" alt="image" src="https://github.com/user-attachments/assets/b1d3f255-c583-4e02-bfa9-26b9e903d765" />
+
 Welcome to the official repository for the **IEEE Git & GitHub Workshop** at Universidad de la Costa.
 
 > This event was designed to help students and professionals build their **personal brand in technology** by learning how to use **Git**, **GitHub**, and modern development tools to showcase projects and skills in a professional way.
