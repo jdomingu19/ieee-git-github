@@ -28,7 +28,8 @@ Welcome to the official repository for the **IEEE Git & GitHub Workshop** at Uni
 
 ## 02-README.md 🛠️
 
-> En este tercer ejemplo de Markdown aprendimos a usar generadores de profile README de otros usuarios, y el uso de prompts estratégicos para crear una descripción profesional corta para hojas de vidas y filtros ATS. Aprendimos sobre el uso de badges con los markdown, y la posibilidad de mostrar tus logros de GitHub.
+> In this third example, we explored **README generators** from other users and the use of **strategic prompts** to create short professional descriptions for **CVs** and **ATS filters**.  
+> We also learned how to use **badges** in Markdown and how to highlight **GitHub achievements**.
 
 ## 03-README.md 🔍
 
