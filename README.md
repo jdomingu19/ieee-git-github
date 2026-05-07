@@ -63,7 +63,7 @@ To continue building and refining your GitHub profile, here are some valuable re
 - [GPRM - Best Profile Generator](https://gprm.itsvg.in/)
 - [GitBook - Turn documentation into your product’s knowledge system](https://www.gitbook.com/)
 
-## 📝 License
+## ⚖️ License
 
 This repository is licensed under the terms of the [Apache License 2.0](LICENSE). The license grants permission to use, modify, and distribute the code with proper attribution, while ensuring that improvements and extensions remain open and accessible to the community.
 
