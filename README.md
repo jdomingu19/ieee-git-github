@@ -1,4 +1,8 @@
-# IEEE Git & GitHub 💻⚡
+# IEEE Git & GitHub
+
+![Static Badge](https://img.shields.io/badge/git-2.5+-1C2024?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)
+![Static Badge](https://img.shields.io/badge/github-this+-1C2024?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)
+![Static Badge](https://img.shields.io/badge/markdown-1.0.1+-1C2024?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)
 
 Welcome to the official repository for the **IEEE Git & GitHub Workshop** at Universidad de la Costa.
 
